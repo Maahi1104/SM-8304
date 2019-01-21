@@ -1,1 +1,10 @@
-This is the Home Page
+#include<conio.h>
+#include<stdio.h>
+{
+void addstudent(){
+printf("enter registration no.");
+printf("enter student name");
+
+}
+getch()
+}
